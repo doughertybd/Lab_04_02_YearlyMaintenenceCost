@@ -6,6 +6,6 @@ public class Main {
         double winterCost = 93.15;
         double totalCost;
         totalCost = springCost + summerCost + fallCost + winterCost;
-        System.out.println("The cost of the four seasons (spring: $" + springCost + ", summer: $" + summerCost + ", fall: $" + fallCost + ", winter: $" + winterCost + ") totaled up is: $" + totalCost);
+        System.out.println("The cost of the four seasons ( spring: $" + springCost + ", summer: $" + summerCost + ", fall: $" + fallCost + ", winter: $" + winterCost + ") totaled up is: $" + totalCost);
     }
 }
